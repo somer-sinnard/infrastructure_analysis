@@ -2,7 +2,7 @@ This is a portion of a group project with the overarching goal of identifying ar
 
 The attached Tableau Workbook contains dashboards that can be used to identify cities and states with growing infrastructure funding and particularly poor bridge and road conditions.
 
-A brief overview of the slides is below:
+A brief overview of the slides is found below:
   - State BIL Profile
     - Shows funding by state from the Bipartisan Infrastructure Law (BIL) and which subcategories the funding is allocated to for each state
   - City BIL Profile
